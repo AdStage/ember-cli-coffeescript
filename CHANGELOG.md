@@ -6,6 +6,7 @@
   + Capitalize properly in component-test [ember-cli#3469](https://github.com/ember-cli/ember-cli/pull/3469)
   + Fix helper test failing by default [ember-cli#3493](https://github.com/ember-cli/ember-cli/pull/3493)
   + Improved serializer-test blueprint [ember-cli#3762](https://github.com/ember-cli/ember-cli/pull/3762)
+  + Addon-import support for built-in blueprints [ember-cli#3690](https://github.com/ember-cli/ember-cli/pull/3690)
 
 ## 0.10.0
 + Blueprint improvements for ember-cli 0.2.0
